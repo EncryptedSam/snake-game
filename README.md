@@ -50,3 +50,4 @@ export default tseslint.config({
 ```
 # analog-clock
 # snake-game
+# snake-game
