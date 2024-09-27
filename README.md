@@ -69,7 +69,7 @@ A classic Snake Game built using **ReactJS** and **TypeScript**, powered by **Vi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/EncryptedSam/snake-game.git
    cd snake-game
    ```
 
