@@ -49,7 +49,7 @@ A classic Snake Game built using **ReactJS** and **TypeScript**, powered by **Vi
 ├── App.css                    // Styling for the app
 ├── App.tsx                    // Main entry point for the React app
 ├── Game.tsx                   // Core game component
-└── GameBoard.ts               // Manages the game board display and logic
+└── GameBoard.ts               // Manages the game board display
 ```
 
 ### Folder Details
@@ -62,7 +62,7 @@ A classic Snake Game built using **ReactJS** and **TypeScript**, powered by **Vi
 - **utils**: Utility functions to support the game logic.
 - **App.tsx**: The root component where the game is initialized.
 - **Game.tsx**: Contains the main game logic and the React component where the game is rendered.
-- **GameBoard.ts**: Handles the board rendering and the game state.
+- **GameBoard.ts**: Handles the board rendering.
 
 ## Setup and Installation
 
