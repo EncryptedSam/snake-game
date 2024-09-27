@@ -2,7 +2,6 @@
 import generateRandomCoords from "../../utils/generateRandomCoords";
 import isPointInList from "../../utils/isPointInList";
 import { GameState } from "../components/GameState";
-import { Grid } from "../components/Grid";
 import { Position } from "../components/Position";
 import { Board } from "../entities/Board";
 import { Bricks } from "../entities/Bricks";

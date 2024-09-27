@@ -1,4 +1,3 @@
-import React from 'react'
 import GrPowerReset from '../icons/GrPowerReset'
 import { GameState } from '../../ecs/components/GameState'
 

@@ -1,4 +1,3 @@
-import { Grid } from "./ecs/components/Grid";
 import { Board } from "./ecs/entities/Board";
 import { Bricks } from "./ecs/entities/Bricks";
 import { Food } from "./ecs/entities/Food";
@@ -66,7 +65,6 @@ class GameBoard {
     );
   };
 
-  private snakeHead = () => {};
 
   drawBgPattern = () => {
     let { cols, rows } = this.grid;

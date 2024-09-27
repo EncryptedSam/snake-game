@@ -1,5 +1,4 @@
 // src/ecs/systems/MovementSystem.ts
-import { Grid } from "../components/Grid";
 import { Board } from "../entities/Board";
 import { Snake } from "../entities/Snake";
 
