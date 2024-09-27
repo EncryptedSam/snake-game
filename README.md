@@ -31,7 +31,7 @@ A classic Snake Game built using **ReactJS** and **TypeScript**, powered by **Vi
 │   │   └── index.ts          // Export file for PopUpCard
 ├── ecs
 │   ├── components
-│   │   ├── GameState.ts      // Tracks the state of the game (score, lives, etc.)
+│   │   ├── GameState.ts      // Tracks the state of the game 
 │   │   ├── Grid.ts           // Grid system that defines the game space
 │   │   └── Position.ts       // Represents the position of entities in the game
 │   ├── entities
