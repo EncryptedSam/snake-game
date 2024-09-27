@@ -95,7 +95,6 @@ A classic Snake Game built using **ReactJS** and **TypeScript**, powered by **Vi
 
 - **Arrow Keys**: Move the snake in different directions.
 - **Spacebar**: Pause or resume the game.
-- **Reset Icon**: Click the reset button to restart the game.
 
 ## Contributions
 
